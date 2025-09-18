@@ -14,4 +14,4 @@ A Python Object-Oriented Programming (OOP) simulation of a mobile phone that tra
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/phone-status-monitor.git
+git clone https://github.com/Oscardumai/Phone-Status-Monitor_Simulator.git
